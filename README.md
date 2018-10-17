@@ -1,7 +1,7 @@
 # `DMGP`: Deep Matrix-variate Gaussian Process
 
 This is a tensorlfow implementation of Deep Matrix-variate Gaussian Process.
-See https://arxiv.org/abs/1806.08069 for details.
+See https://ieeexplore.ieee.org/document/8449923 for details.
 
 ## Requirements
 
